@@ -1,0 +1,26 @@
+html {
+  line-height: 1.15; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+
+body {
+  margin: 0;
+}
+
+main {
+  display: block;
+}
+
+/*
+con = container
+pan = panel
+*/
+.con:after,.con:before,.pan:after,.pan:before{content:"";display:table;clear:both}
+.con,.pan{padding:0.01em 16px}.pan{margin-top:16px;margin-bottom:16px}
+
+cont
+
+nor
+
+ner
